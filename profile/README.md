@@ -2,6 +2,23 @@
 
 ### URL: [we-go-fe.vercel.app](we-go-fe.vercel.app)
 
+## Line Up 👨‍💻👩‍💻
+UX/UI (1) <br/>
+FRONTEND (3) <br/>
+BACKEND (2) <br/>
+
+### Front
+
+| <img src="https://avatars.githubusercontent.com/u/100336573?v=4" width=150px alt="종민"> | <img src="https://avatars.githubusercontent.com/u/65334125?v=4" width=150px alt="현진"> | <img src="https://avatars.githubusercontent.com/u/135521917?v=4" width=150px alt="지수"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|              [종민](https://github.com/NamgungJongMin)              |          [현진](https://github.com/who0803)           |              [지수](https://github.com/NewJiSoo)              |     
+
+### Backend
+
+| <img src="https://avatars.githubusercontent.com/u/28504937?v=4" width=150px alt="재현"> | <img src="https://avatars.githubusercontent.com/u/95222741?v=4" width=150px alt="직찬"> | 
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|              [재현](https://github.com/tjvm0877)              |              [직찬](https://github.com/jickDo)              |
+
 <!--
 
 **Here are some ideas to get you started:**
