@@ -9,13 +9,13 @@ BACKEND (2) <br/>
 
 ### Front
 
-| <img src="https://avatars.githubusercontent.com/u/100336573?v=4" width=150px alt="종민"> | <img src="https://avatars.githubusercontent.com/u/65334125?v=4" width=150px alt="현진"> | <img src="https://avatars.githubusercontent.com/u/135521917?v=4" width=150px alt="지수"> |
+| <img src="https://avatars.githubusercontent.com/u/100336573?v=4" width=100px alt="종민"> | <img src="https://avatars.githubusercontent.com/u/65334125?v=4" width=100px alt="현진"> | <img src="https://avatars.githubusercontent.com/u/135521917?v=4" width=100px alt="지수"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |              [종민](https://github.com/NamgungJongMin)              |          [현진](https://github.com/who0803)           |              [지수](https://github.com/NewJiSoo)              |     
 
 ### Backend
 
-| <img src="https://avatars.githubusercontent.com/u/28504937?v=4" width=150px alt="재현"> | <img src="https://avatars.githubusercontent.com/u/95222741?v=4" width=150px alt="직찬"> | 
+| <img src="https://avatars.githubusercontent.com/u/28504937?v=4" width=100px alt="재현"> | <img src="https://avatars.githubusercontent.com/u/95222741?v=4" width=100px alt="직찬"> | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |              [재현](https://github.com/tjvm0877)              |              [직찬](https://github.com/jickDo)              |
 
