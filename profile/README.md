@@ -1,6 +1,6 @@
 ## WeGo, Travel Buddy Matching App 👍
 
-### URL: [we-go-fe.vercel.app](we-go-fe.vercel.app)
+### URL: [we-go.world](we-go.world)
 
 ## Line Up 👨‍💻👩‍💻
 UX/UI (1) <br/>
