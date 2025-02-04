@@ -1,5 +1,5 @@
 ## 📼OverView
-//-- 홍보 영상 올자리 --//
+https://github.com/user-attachments/assets/0df8536f-0e00-4fd6-a571-e7994f7d4aca
 
 ## 🖐Introduce
 ![image](https://github.com/user-attachments/assets/f10ee39f-c45c-435e-b5b7-5fb906c35483)
